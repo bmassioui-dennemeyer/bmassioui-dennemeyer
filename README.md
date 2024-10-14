@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @bmassioui-dennemeyer
-- 👀 I’m interested in Software Engineering including, Software Architecturing, Cloud engineering ...
+- 👀 SWE specialised in .NET and Azure working on VNEXT.IPRights products.
